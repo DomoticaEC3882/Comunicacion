@@ -11,12 +11,9 @@ firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://domoticaec3882.firebaseio.com'
 })
 
-temperatura = 35
-
-
-# def referencia(temperatura):
-temperaturaRef = db.reference('componentes/Temperatura')
-temperaturaRef.set(10)
-time.sleep(1)
-temperaturaRef.set(temperatura) #Se manda a Firebase el valor de la Temperatura
-print(temperaturaRef.get())
+def referencia(temperatura):
+    temperaturaRef = db.reference('componentes/Temperatura')
+    temperaturaRef.set(10)
+    time.sleep(1)
+    temperaturaRef.set(temperatura) #Se manda a Firebase el valor de la Temperatura
+    print(temperaturaRef.get())
