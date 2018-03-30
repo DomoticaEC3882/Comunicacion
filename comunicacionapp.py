@@ -20,11 +20,13 @@ def referencia(temperatura):
 
 def sismo(acelerometro):
     tiempo_inicial = time.time() #Se establece el tiempo inicial para empezar a contar en segundos
-    while(acelerometro <= 1.45):
-       dummy = 0 #Se establece un ciclo infinito hasta que el sismo pare
+    amplitud_inicial = 1.5 - acelerometro #Como el acelerometro siempre muestra 1.5 en la salida y baja dicho valor cuando se mueve. Entonces la amplitud la calculamos de esa manera
+    while(acelerometro <= 1.45): #Se establece un ciclo infinito hasta que el sismo pase
+       if(acelerometro <= amplitud_inicial):
+            amplitud_maxima = 1.5 - acelerometro
     tiempo_final = time.time() - tiempo_inicial  # Se establece el tiempo final restando el tiempo actual menos el tiempo inicial (segundos)
     tiempo_final_entero = int(tiempo_final)
-    magnitud = math.log(((acelerometro * (tiempo_final_entero ** 3)) / 1.62),10)  # Se hace el cálculo en la escala de Richter
+    magnitud = math.log((((amplitud_maxima*1000) * (tiempo_final_entero ** 3)) / 1.62),10)  # Se hace el cálculo en la escala de Richter
     magnitud = int(magnitud)
     magnitudRef = db.reference('Sismo')
     magnitudRef.set(magnitud)  # Se manda a Firebase el valor del Sismo
