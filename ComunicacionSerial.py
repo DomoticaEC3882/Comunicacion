@@ -1,3 +1,6 @@
+#ComunicacionSerial
+
+
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import numpy as np
@@ -52,7 +55,7 @@ def leerPuerto():
     for canal in range(0,2):
         analogico[canal] = (((mensaje[1+2*canal] & 31) << 7) + mensaje[2+2*canal])/2**12
         #analogico[canal]=np.vstack((analogico[canal],valor))
-
+    comapp.referencia(50*analogico[1]) #Se manda el valor de la Temperatura a la funcion referencia de comunicacionapp.py
     threading.Timer(1/10000.,leerPuerto).start()
 
 def escribirPuerto():
@@ -68,12 +71,14 @@ def next():
         yield i
 def update(i):
     y = MAX_ACELEROMETRO * analogico[0]
+    if(y<=1.4):
+        comapp.sismo(y)
     ydata1.append(y)
     xdata1.append(i)
     lineas[0].set_data(xdata1, ydata1)
 
     y = MAX_TEMPERATURA * analogico[1]
-    comapp.referencia(y)
+    comapp.referencia(y) #Se manda el valor de la Temperatura a la funcion referencia de comunicacionapp.py
     #Graficación de la señal de Temperatura:
     ydata2.append(y)
     xdata2.append(i)
@@ -95,4 +100,3 @@ if __name__ == '__main__':
 
     _, y =np.asarray(linea1.get_data())
     ans.analisis(y)
-
