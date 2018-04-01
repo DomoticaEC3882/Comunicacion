@@ -33,3 +33,5 @@ def sismo(acelerometro,tiempo):
     magnitudRef = db.reference('Sismo')
     magnitudRef.set(magnitud)  # Se manda a Firebase el valor del Sismo
     print(magnitudRef.get())
+
+

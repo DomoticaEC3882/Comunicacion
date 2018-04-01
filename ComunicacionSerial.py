@@ -1,6 +1,8 @@
 import numpy as np
 import serial
 import comunicacionapp as comapp
+import socket
+import struct
 
 #Constantes
 MAX_ACELEROMETRO = 3
@@ -31,8 +33,8 @@ def procesarSismografo(acelerometro):
         hola =acelerometro
 
 def procesarTemperatura(temperatura):
-    comapp.referencia(temperatura)
-
+    temperatura = struct.pack('!d', temperatura)  # Conversión float a bytes
+    sock.send(temperatura)
 
 def leerPuerto():
     ##LECTURA DEL PUERTO
@@ -58,3 +60,8 @@ if __name__ == '__main__':
         procesarTemperatura(temperatura)
         # Alarma
         procesarAlarma(hall, ultrasonido)
+
+        # Configuración socket Cliente:
+        host, port = "localhost", 9999
+        sock = socket.socket()  # Creamos un socket
+        sock.connect((host, port))  # Nos conectamos al socket
