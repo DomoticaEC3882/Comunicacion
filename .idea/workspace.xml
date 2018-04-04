@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="540e631f-769f-4ea1-a78c-e455f3585002" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Comunicacion.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/acorn.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/atob" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/atob.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/gcs-upload" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/gcs-upload.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/gp12-pem" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/gp12-pem.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/mime" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/pbjs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/pbjs.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-conv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-conv.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-sign" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-sign.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-verify" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-verify.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/uuid" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/uuid.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/window-size" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/window-size.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app-types/index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app-types/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app-types/private.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/.nyc_output/92a212e8daaa9eb2be2cdc7c0a6cb0e1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/.nyc_output/ec5dfa4add37a7567b5bcd128975609b.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/firebaseApp.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/lcov.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/prettify.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/prettify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/sort-arrow-sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/sorter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/coverage/node/lcov.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/dist/cjs/index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/dist/cjs/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/dist/cjs/index.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/dist/cjs/src/firebaseApp.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/dist/cjs/src/firebaseApp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/dist/cjs/src/firebaseApp.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/dist/esm/index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/dist/esm/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/dist/esm/index.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/dist/esm/src/firebaseApp.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/dist/esm/src/firebaseApp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/dist/esm/src/firebaseApp.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/app/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database-types/index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database-types/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/.nyc_output/03deecbba6c8cab95331ba3d59a4c508.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/.nyc_output/cc841b4013f4a9184d15b25d474a2570.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/api/DataSnapshot.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/api/Database.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/api/Query.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/api/Reference.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/api/TransactionResult.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/api/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/api/internal.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/api/onDisconnect.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/api/test_access.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/AuthTokenProvider.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/CompoundWrite.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/PersistentConnection.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/ReadonlyRestClient.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/Repo.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/RepoInfo.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/RepoManager.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/Repo_transaction.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/ServerActions.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/SnapshotHolder.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/SparseSnapshotTree.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/SyncPoint.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/SyncTree.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/WriteTree.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/operation/AckUserWrite.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/operation/ListenComplete.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/operation/Merge.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/operation/Operation.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/operation/Overwrite.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/operation/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/ChildrenNode.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/IndexMap.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/LeafNode.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/Node.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/childSet.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/comparators.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/indexes/Index.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/indexes/KeyIndex.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/indexes/PathIndex.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/indexes/PriorityIndex.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/indexes/ValueIndex.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/indexes/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/nodeFromJSON.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/snap/snap.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/stats/StatsCollection.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/stats/StatsListener.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/stats/StatsManager.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/stats/StatsReporter.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/stats/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/storage/DOMStorageWrapper.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/storage/MemoryStorage.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/storage/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/storage/storage.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/CountedSet.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/EventEmitter.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/ImmutableTree.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/NextPushId.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/OnlineMonitor.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/Path.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/ServerValues.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/SortedMap.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/Tree.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/VisibilityMonitor.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/libs/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/libs/parser.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/util.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/util/validation.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/CacheNode.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/Change.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/ChildChangeAccumulator.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/CompleteChildSource.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/Event.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/EventGenerator.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/EventQueue.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/EventRegistration.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/QueryParams.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/View.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/ViewCache.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/ViewProcessor.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/filter/IndexedFilter.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/filter/LimitedFilter.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/filter/RangedFilter.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/filter/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/core/view/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/lcov.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/prettify.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/prettify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/realtime/BrowserPollConnection.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/realtime/Connection.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/realtime/Constants.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/realtime/TransportManager.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/realtime/WebSocketConnection.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/realtime/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/realtime/polling/PacketReceiver.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/realtime/polling/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/sort-arrow-sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/browser/HeadlessChrome 65.0.3325 (Linux 0.0.0)/sorter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/coverage/node/lcov.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/index.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/index.node.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/index.node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/index.node.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/DataSnapshot.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/DataSnapshot.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/DataSnapshot.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/Database.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/Database.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/Database.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/Query.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/Query.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/Query.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/Reference.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/Reference.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/Reference.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/TransactionResult.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/TransactionResult.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/TransactionResult.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/internal.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/internal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/internal.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/onDisconnect.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/onDisconnect.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/onDisconnect.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/test_access.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/test_access.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/api/test_access.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/AuthTokenProvider.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/AuthTokenProvider.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/AuthTokenProvider.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/CompoundWrite.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/CompoundWrite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/CompoundWrite.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/PersistentConnection.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/PersistentConnection.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/PersistentConnection.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/ReadonlyRestClient.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/ReadonlyRestClient.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/ReadonlyRestClient.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/Repo.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/Repo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/Repo.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/RepoInfo.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/RepoInfo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/RepoInfo.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/RepoManager.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/RepoManager.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/RepoManager.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/Repo_transaction.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/Repo_transaction.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/Repo_transaction.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/ServerActions.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/ServerActions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/ServerActions.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/SnapshotHolder.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/SnapshotHolder.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/SnapshotHolder.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/SparseSnapshotTree.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/SparseSnapshotTree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/SparseSnapshotTree.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/SyncPoint.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/SyncPoint.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/SyncPoint.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/SyncTree.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/SyncTree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/SyncTree.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/WriteTree.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/WriteTree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/WriteTree.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/AckUserWrite.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/AckUserWrite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/AckUserWrite.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/ListenComplete.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/ListenComplete.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/ListenComplete.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/Merge.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/Merge.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/Merge.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/Operation.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/Operation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/Operation.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/Overwrite.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/Overwrite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/operation/Overwrite.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/ChildrenNode.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/ChildrenNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/ChildrenNode.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/IndexMap.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/IndexMap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/IndexMap.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/LeafNode.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/LeafNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/LeafNode.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/Node.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/Node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/Node.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/childSet.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/childSet.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/childSet.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/comparators.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/comparators.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/comparators.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/Index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/Index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/Index.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/KeyIndex.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/KeyIndex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/KeyIndex.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/PathIndex.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/PathIndex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/PathIndex.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/PriorityIndex.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/PriorityIndex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/PriorityIndex.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/ValueIndex.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/ValueIndex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/indexes/ValueIndex.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/nodeFromJSON.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/nodeFromJSON.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/nodeFromJSON.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/snap.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/snap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/snap/snap.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/stats/StatsCollection.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/stats/StatsCollection.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/stats/StatsCollection.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/stats/StatsListener.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/stats/StatsListener.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/stats/StatsListener.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/stats/StatsManager.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/stats/StatsManager.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/stats/StatsManager.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/stats/StatsReporter.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/stats/StatsReporter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/stats/StatsReporter.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/storage/DOMStorageWrapper.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/storage/DOMStorageWrapper.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/storage/DOMStorageWrapper.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/storage/MemoryStorage.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/storage/MemoryStorage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/storage/MemoryStorage.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/storage/storage.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/storage/storage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/storage/storage.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/CountedSet.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/CountedSet.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/CountedSet.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/EventEmitter.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/EventEmitter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/EventEmitter.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/ImmutableTree.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/ImmutableTree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/ImmutableTree.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/NextPushId.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/NextPushId.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/NextPushId.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/OnlineMonitor.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/OnlineMonitor.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/OnlineMonitor.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/Path.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/Path.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/Path.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/ServerValues.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/ServerValues.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/ServerValues.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/SortedMap.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/SortedMap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/SortedMap.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/Tree.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/Tree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/Tree.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/VisibilityMonitor.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/VisibilityMonitor.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/VisibilityMonitor.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/libs/parser.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/libs/parser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/libs/parser.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/util.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/util.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/util.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/validation.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/validation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/util/validation.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/CacheNode.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/CacheNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/CacheNode.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/Change.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/Change.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/Change.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/ChildChangeAccumulator.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/ChildChangeAccumulator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/ChildChangeAccumulator.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/CompleteChildSource.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/CompleteChildSource.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/CompleteChildSource.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/Event.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/Event.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/Event.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/EventGenerator.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/EventGenerator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/EventGenerator.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/EventQueue.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/EventQueue.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/EventQueue.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/EventRegistration.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/EventRegistration.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/EventRegistration.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/QueryParams.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/QueryParams.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/QueryParams.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/View.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/View.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/View.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/ViewCache.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/ViewCache.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/ViewCache.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/ViewProcessor.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/ViewProcessor.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/ViewProcessor.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/filter/IndexedFilter.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/filter/IndexedFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/filter/IndexedFilter.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/filter/LimitedFilter.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/filter/LimitedFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/filter/LimitedFilter.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/filter/NodeFilter.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/filter/NodeFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/filter/NodeFilter.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/filter/RangedFilter.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/filter/RangedFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/core/view/filter/RangedFilter.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/nodePatches.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/nodePatches.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/nodePatches.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/BrowserPollConnection.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/BrowserPollConnection.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/BrowserPollConnection.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/Connection.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/Connection.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/Connection.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/Constants.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/Constants.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/Constants.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/Transport.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/Transport.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/Transport.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/TransportManager.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/TransportManager.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/TransportManager.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/WebSocketConnection.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/WebSocketConnection.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/WebSocketConnection.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/polling/PacketReceiver.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/polling/PacketReceiver.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/cjs/src/realtime/polling/PacketReceiver.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/index.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/index.node.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/index.node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/index.node.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/DataSnapshot.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/DataSnapshot.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/DataSnapshot.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/Database.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/Database.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/Database.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/Query.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/Query.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/Query.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/Reference.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/Reference.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/Reference.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/TransactionResult.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/TransactionResult.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/TransactionResult.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/internal.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/internal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/internal.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/onDisconnect.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/onDisconnect.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/onDisconnect.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/test_access.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/test_access.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/api/test_access.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/AuthTokenProvider.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/AuthTokenProvider.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/AuthTokenProvider.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/CompoundWrite.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/CompoundWrite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/CompoundWrite.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/PersistentConnection.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/PersistentConnection.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/PersistentConnection.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/ReadonlyRestClient.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/ReadonlyRestClient.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/ReadonlyRestClient.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/Repo.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/Repo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/Repo.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/RepoInfo.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/RepoInfo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/RepoInfo.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/RepoManager.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/RepoManager.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/RepoManager.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/Repo_transaction.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/Repo_transaction.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/Repo_transaction.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/ServerActions.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/ServerActions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/ServerActions.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/SnapshotHolder.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/SnapshotHolder.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/SnapshotHolder.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/SparseSnapshotTree.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/SparseSnapshotTree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/SparseSnapshotTree.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/SyncPoint.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/SyncPoint.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/SyncPoint.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/SyncTree.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/SyncTree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/SyncTree.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/WriteTree.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/WriteTree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/WriteTree.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/AckUserWrite.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/AckUserWrite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/AckUserWrite.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/ListenComplete.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/ListenComplete.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/ListenComplete.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/Merge.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/Merge.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/Merge.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/Operation.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/Operation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/Operation.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/Overwrite.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/Overwrite.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/operation/Overwrite.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/ChildrenNode.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/ChildrenNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/ChildrenNode.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/IndexMap.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/IndexMap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/IndexMap.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/LeafNode.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/LeafNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/LeafNode.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/Node.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/Node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/Node.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/childSet.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/childSet.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/childSet.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/comparators.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/comparators.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/comparators.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/Index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/Index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/Index.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/KeyIndex.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/KeyIndex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/KeyIndex.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/PathIndex.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/PathIndex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/PathIndex.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/PriorityIndex.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/PriorityIndex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/PriorityIndex.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/ValueIndex.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/ValueIndex.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/indexes/ValueIndex.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/nodeFromJSON.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/nodeFromJSON.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/nodeFromJSON.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/snap.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/snap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/snap/snap.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/stats/StatsCollection.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/stats/StatsCollection.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/stats/StatsCollection.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/stats/StatsListener.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/stats/StatsListener.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/stats/StatsListener.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/stats/StatsManager.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/stats/StatsManager.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/stats/StatsManager.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/stats/StatsReporter.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/stats/StatsReporter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/stats/StatsReporter.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/storage/DOMStorageWrapper.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/storage/DOMStorageWrapper.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/storage/DOMStorageWrapper.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/storage/MemoryStorage.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/storage/MemoryStorage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/storage/MemoryStorage.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/storage/storage.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/storage/storage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/storage/storage.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/CountedSet.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/CountedSet.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/CountedSet.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/EventEmitter.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/EventEmitter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/EventEmitter.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/ImmutableTree.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/ImmutableTree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/ImmutableTree.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/NextPushId.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/NextPushId.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/NextPushId.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/OnlineMonitor.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/OnlineMonitor.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/OnlineMonitor.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/Path.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/Path.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/Path.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/ServerValues.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/ServerValues.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/ServerValues.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/SortedMap.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/SortedMap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/SortedMap.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/Tree.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/Tree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/Tree.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/VisibilityMonitor.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/VisibilityMonitor.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/VisibilityMonitor.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/libs/parser.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/libs/parser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/libs/parser.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/util.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/util.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/util.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/validation.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/validation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/util/validation.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/CacheNode.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/CacheNode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/CacheNode.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/Change.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/Change.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/Change.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/ChildChangeAccumulator.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/ChildChangeAccumulator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/ChildChangeAccumulator.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/CompleteChildSource.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/CompleteChildSource.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/CompleteChildSource.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/Event.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/Event.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/Event.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/EventGenerator.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/EventGenerator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/EventGenerator.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/EventQueue.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/EventQueue.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/EventQueue.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/EventRegistration.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/EventRegistration.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/EventRegistration.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/QueryParams.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/QueryParams.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/QueryParams.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/View.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/View.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/View.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/ViewCache.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/ViewCache.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/ViewCache.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/ViewProcessor.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/ViewProcessor.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/ViewProcessor.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/filter/IndexedFilter.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/filter/IndexedFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/filter/IndexedFilter.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/filter/LimitedFilter.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/filter/LimitedFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/filter/LimitedFilter.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/filter/NodeFilter.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/filter/NodeFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/filter/NodeFilter.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/filter/RangedFilter.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/filter/RangedFilter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/core/view/filter/RangedFilter.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/nodePatches.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/nodePatches.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/nodePatches.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/BrowserPollConnection.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/BrowserPollConnection.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/BrowserPollConnection.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/Connection.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/Connection.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/Connection.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/Constants.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/Constants.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/Constants.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/Transport.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/Transport.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/Transport.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/TransportManager.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/TransportManager.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/TransportManager.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/WebSocketConnection.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/WebSocketConnection.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/WebSocketConnection.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/polling/PacketReceiver.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/polling/PacketReceiver.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/dist/esm/src/realtime/polling/PacketReceiver.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/CODE_OF_CONDUCT.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/examples/autobahn_client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/examples/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/examples/haproxy.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/examples/proxy_server.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/examples/server.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/examples/sse.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/examples/ws.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/lib/faye/eventsource.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/lib/faye/websocket.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/lib/faye/websocket/api.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/lib/faye/websocket/api/event.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/lib/faye/websocket/api/event_target.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/lib/faye/websocket/client.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/node_modules/faye-websocket/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/database/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/cjs/index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/cjs/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/cjs/index.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/cjs/src/logger.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/cjs/src/logger.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/cjs/src/logger.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/cjs/test/logger.test.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/cjs/test/logger.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/cjs/test/logger.test.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/esm/index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/esm/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/esm/index.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/esm/src/logger.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/esm/src/logger.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/esm/src/logger.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/esm/test/logger.test.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/esm/test/logger.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/dist/esm/test/logger.test.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/gulpfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/index.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/karma.conf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/src/logger.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/test/logger.test.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/logger/tsconfig.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/.nyc_output/55190f427e52589577e1f926f630a053.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/.nyc_output/c8102d5955d952cc8663acbb17d7b81a.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/crypt.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/deepCopy.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/errors.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/lcov.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/prettify.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/prettify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/sort-arrow-sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/sorter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/coverage/browser/HeadlessChrome 64.0.3282 (Linux 0.0.0)/subscribe.ts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/coverage/node/lcov.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/index.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/index.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/index.node.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/index.node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/index.node.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/assert.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/assert.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/assert.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/constants.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/constants.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/constants.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/crypt.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/crypt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/crypt.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/deepCopy.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/deepCopy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/deepCopy.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/deferred.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/deferred.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/deferred.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/environment.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/environment.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/environment.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/errors.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/errors.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/errors.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/hash.d.ts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/hash.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/@firebase/util/dist/cjs/src/hash.js.map" />
+      <change beforePath="$PROJECT_DIR$/ComunicacionSerial.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/comunicacionapp.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/domoticaec3882-firebase-adminsdk-rye8h-493394c76b.json" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ComunicacionApp.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Source/ComunicacionApp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComunicacionSerial.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/ComunicacionSerial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="66" column="41" lean-forward="true" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/borrador" />
+        <option value="$PROJECT_DIR$/ServidorPython.py" />
+        <option value="$PROJECT_DIR$/Tutorial_de_Python_26_crear-tabla.py" />
+        <option value="$PROJECT_DIR$/Tutorial_de_Python_26_insertar-datos.py" />
+        <option value="$PROJECT_DIR$/Crear_Tabla.py" />
+        <option value="$PROJECT_DIR$/Tutorial_de_Python_27_seleccionar-datos.py" />
+        <option value="$PROJECT_DIR$/ComunicacionSerial.py" />
+        <option value="$PROJECT_DIR$/Comunicacion_Serial_TXT.py" />
+        <option value="$PROJECT_DIR$/comunicacionapp.py" />
+        <option value="$PROJECT_DIR$/Source/Constantes.py" />
+        <option value="$PROJECT_DIR$/Source/ComunicacionSerial.py" />
+        <option value="$PROJECT_DIR$/Source/ComunicacionApp.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Comunicacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Comunicacion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Comunicacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Comunicacion" type="462c0819:PsiDirectoryNode" />
+              <item name="Source" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ComunicacionSerial">
+    <configuration name="ComunicacionApp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Comunicacion" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Source/ComunicacionApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ComunicacionSerial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Comunicacion" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Source/ComunicacionSerial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.ComunicacionApp" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ComunicacionSerial" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.ComunicacionSerial" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ComunicacionApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="540e631f-769f-4ea1-a78c-e455f3585002" name="Default" comment="" />
+      <created>1522461619628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522461619628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39940387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="36" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Comunicacion_Serial_TXT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComunicacionApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3186">
+          <caret line="118" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="118" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComunicacionSerial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domoticaec3882-firebase-adminsdk-rye8h-b14ac69b81.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComunicacionSerial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domoticaec3882-firebase-adminsdk-rye8h-b14ac69b81.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComunicacionSerial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComunicacionApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServidorPython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#20#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/serial/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8316">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComunicacionSerial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/serial/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8316">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComunicacionApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServidorPython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#20#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComunicacionSerial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComunicacionApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComunicacionSerial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComunicacionApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/borrador">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/serial/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="1181" column="0" lean-forward="false" selection-start-line="1181" selection-start-column="0" selection-end-line="1181" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/serial/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServidorPython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#20#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/domoticaec3882-firebase-adminsdk-rye8h-b14ac69b81.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/serial/Lib/site-packages/serial/serialwin32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorial_de_Python_27_seleccionar-datos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorial_de_Python_26_insertar-datos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorial_de_Python_26_crear-tabla.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crear_Tabla.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComunicacionSerial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="934">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Comunicacion_Serial_TXT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComunicacionApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/Constantes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/ComunicacionSerial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="66" column="41" lean-forward="true" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/ComunicacionApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
