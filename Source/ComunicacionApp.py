@@ -1,7 +1,8 @@
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
-import time
+from subprocess import call
+
 # Fetch the service account key JSON file contents
 cred = credentials.Certificate('keyAuthorization/domoticaec3882-firebase-adminsdk-rye8h-493394c76b.json')
 
@@ -18,26 +19,40 @@ temperaturaRef = db.reference('Temperatura')
 ventilacionRef = db.reference('Ventilacion')
 valorAnterior = 0
 
-def enviarTemperatura(valorAnterior):
+def enviarNotificacion():
+    call("node EnviarNotificacionAlarma.js",shell=True)
+def escribirArchivo(nombre,valor):
+    f=open(nombre,'w')
+    f.write(str(valor))
+    f.close()
+
+def leerArchivo(nombre):
     try:
-        f = open('temperatura.txt', 'r')
-        temperatura = f.read()
-        temperatura = int(temperatura)
+        f=open(nombre,'r')
+        valor = f.read()
         f.close()
-
-
-        if temperatura is not valorAnterior:
-            temperaturaRef.set(temperatura)  # Se manda a Firebase el valor de la Temperatura
-            print(temperatura)
-            valorAnterior = temperatura
-        return valorAnterior
-
     except:
         f.close()
+    return valor
 
-def enviarNotificacion():
-    hola='alarma en cantidades industriales'
-    #print(hola)
+def leerFirebase():
+    iluminacion = iluminacionRef.get()
+    ventilacion = ventilacionRef.get()
+    escribirArchivo('iluminacion.txt',iluminacion)
+    escribirArchivo('ventilacion.txt',ventilacion)
+def enviarTemperatura(valorAnterior):
+    try:
+        f=open('temperatura.txt','r')
+        temperatura = int(f.read())
+        f.close()
+    except:
+        temperatura = valorAnterior
+        f.close()
+
+    if temperatura is not valorAnterior:
+        temperaturaRef.set(temperatura)
+        valorAnterior = temperatura
+    return valorAnterior
 
 def procesarSeguridad():
     seguridad = seguridadRef.get()
@@ -46,25 +61,26 @@ def procesarSeguridad():
         alarma = f.read()
         alarma = int(alarma)
         f.close()
-
         if seguridad is 1 and alarma is 1:
-            enviarNotificacion()
+            #enviarNotificacion()
+            print("hola")
     except:
         f.close()
 
 def procesarSismo():
     try:
         f = open('acelerometro.txt', 'r')
-        acelerometro = f.read()
-        acelerometro = float(acelerometro)
+        acelerometro = float(f.read())
         f.close()
-        if acelerometro < 1.4:
-
     except:
         f.close()
+
+
 if __name__ == '__main__':
     while True:
+       leerFirebase()
        valorAnterior = enviarTemperatura(valorAnterior)
        procesarSeguridad()
        procesarSismo()
+
 

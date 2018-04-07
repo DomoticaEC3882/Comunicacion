@@ -1,3 +1,4 @@
+from subprocess import call
 import serial
 import numpy as np
 
@@ -20,8 +21,17 @@ analogico = [0,0]
 eventoSismo = np.zeros(0)
 contador = 0
 
-def leerPuerto():
-    ##LECTURA DEL PUERTO
+def leerArchivo(nombre):
+    try:
+        f=open(nombre,'r')
+        valor = f.read()
+        f.close()
+    except:
+        f.close()
+    return valor
+
+def leerParametros():
+    ##LECTURA DEL PUERTO SERIAL
     mensaje = port.read(1 + 2 * cantidad_canales)
     hall = (mensaje[1] & 64) >> 6  # entrada digital 1
     ultrasonido = (mensaje[1] & 32) >> 5  # entrada digital 2
@@ -32,7 +42,18 @@ def leerPuerto():
 
     temperatura = int(MAX_TEMPERATURA*analogico[1])
 
-    return acelerometro,temperatura,hall,ultrasonido
+    #LEER FIREBASE LOCAL
+    iluminacion = leerArchivo('iluminacion.txt')
+    ventilacion = leerArchivo('ventilacion.txt')
+
+    return acelerometro,temperatura,hall,ultrasonido,iluminacion,ventilacion
+
+def escribirPuerto(iluminacion,ventilacion):
+    try:
+        seleccion = str(int(iluminacion)+2*int(ventilacion))
+        port.write(seleccion.encode())
+    except:
+        print('leyomal')
 
 def procesarSismo(acelerometro):
     acelerometro = str(acelerometro)
@@ -59,9 +80,9 @@ def procesarAlarma(hall, ultrasonido):
 
 if __name__ == '__main__':
     while True:
-        acelerometro, temperatura, hall, ultrasonido = leerPuerto()
-        print(acelerometro, temperatura, hall, ultrasonido)
-
+        acelerometro, temperatura, hall, ultrasonido,iluminacion,ventilacion = leerParametros()
+        print(acelerometro, temperatura, hall, ultrasonido,iluminacion,ventilacion)
+        escribirPuerto(iluminacion, ventilacion)
         procesarSismo(acelerometro)
         procesarTemperatura(temperatura)
         procesarAlarma(hall, ultrasonido)
