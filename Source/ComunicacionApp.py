@@ -1,4 +1,6 @@
 import firebase_admin
+import time
+import math
 from firebase_admin import credentials
 from firebase_admin import db
 from subprocess import call
@@ -17,10 +19,33 @@ seguridadRef = db.reference('Seguridad')
 sismoRef = db.reference('Sismo')
 temperaturaRef = db.reference('Temperatura')
 ventilacionRef = db.reference('Ventilacion')
+tokenRef = db.reference('Token')
 valorAnterior = 0
 
-def enviarNotificacion():
-    call("node EnviarNotificacionAlarma.js",shell=True)
+#Bandera para el sismo:
+f = open('bandera.txt', 'w')
+f.write('0')
+f.close()
+
+#Tiempo Inicial para el sismo:
+f = open('tiempo.txt', 'w')
+f.write('0')
+f.close()
+
+#Tiempo Acumulado para el sismo:
+f = open('tiempoAcumulado.txt', 'w')
+f.write('0')
+f.close()
+
+#Amplitud Maxima para el sismo:
+f = open('amplitud.txt', 'w')
+f.write('5')
+f.close()
+
+def obtenerToken():
+    token = tokenRef.get()
+    escribirArchivo('token.txt', token)
+
 def escribirArchivo(nombre,valor):
     f=open(nombre,'w')
     f.write(str(valor))
@@ -40,6 +65,7 @@ def leerFirebase():
     ventilacion = ventilacionRef.get()
     escribirArchivo('iluminacion.txt',iluminacion)
     escribirArchivo('ventilacion.txt',ventilacion)
+
 def enviarTemperatura(valorAnterior):
     try:
         f=open('temperatura.txt','r')
@@ -62,25 +88,17 @@ def procesarSeguridad():
         alarma = int(alarma)
         f.close()
         if seguridad is 1 and alarma is 1:
-            #enviarNotificacion()
-            print("hola")
+            call("node EnviarNotificacionAlarma.js", shell=True)
+            seguridadRef.set(0)
+
     except:
         f.close()
-
-def procesarSismo():
-    try:
-        f = open('acelerometro.txt', 'r')
-        acelerometro = float(f.read())
-        f.close()
-    except:
-        f.close()
-
 
 if __name__ == '__main__':
+    obtenerToken()
     while True:
        leerFirebase()
        valorAnterior = enviarTemperatura(valorAnterior)
        procesarSeguridad()
-       procesarSismo()
 
 
