@@ -21,6 +21,8 @@ analogico = [0,0]
 eventoSismo = np.zeros(0)
 contador = 0
 
+valorAnterior = '0'
+
 def leerArchivo(nombre):
     try:
         f=open(nombre,'r')
@@ -48,12 +50,17 @@ def leerParametros():
 
     return acelerometro,temperatura,hall,ultrasonido,iluminacion,ventilacion
 
-def escribirPuerto(iluminacion,ventilacion):
+def escribirPuerto(iluminacion,ventilacion,valorAnterior):
     try:
-        seleccion = str(int(iluminacion)+2*int(ventilacion))
-        port.write(seleccion.encode())
+        seleccion = str(int(iluminacion) + 2 * int(ventilacion))
+        if seleccion != valorAnterior:
+            port.write(seleccion.encode())
+            print(seleccion.encode())
+            valorAnterior = seleccion
+        return valorAnterior
     except:
-        print('leyomal')
+        print('error')
+        return valorAnterior
 
 def procesarSismo(acelerometro):
     acelerometro = str(acelerometro)
@@ -82,7 +89,8 @@ if __name__ == '__main__':
     while True:
         acelerometro, temperatura, hall, ultrasonido,iluminacion,ventilacion = leerParametros()
         print(acelerometro, temperatura, hall, ultrasonido,iluminacion,ventilacion)
-        escribirPuerto(iluminacion, ventilacion)
+
         procesarSismo(acelerometro)
         procesarTemperatura(temperatura)
         procesarAlarma(hall, ultrasonido)
+        valorAnterior = escribirPuerto(iluminacion, ventilacion,valorAnterior)

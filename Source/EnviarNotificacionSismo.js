@@ -8,7 +8,7 @@ databaseURL: 'https://domoticaec3882.firebaseio.com/'
 });
 let gradoSismo = fs.readFileSync('sismo.txt','utf-8')
 let token = fs.readFileSync('token.txt', 'utf-8');
-console.log("Sismo de grado: "+ gradoSismo +" En la escala de Richter")
+console.log("Sismo de magnitud: "+ gradoSismo +" En la escala de Richter")
 console.log(token)
 // This registration token comes from the client FCM SDKs.
 var registrationToken = token;
@@ -18,7 +18,7 @@ var registrationToken = token;
 var payload = {
   notification: {
     title: "ALERTA DE SISMO",
-    body: "sismo de grado: " + gradoSismo + " en la escada de Richter",
+    body: "sismo de grado: " + gradoSismo + " en la escala de Richter",
     sound: "default"
   }
 };

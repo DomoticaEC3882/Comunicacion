@@ -4,6 +4,7 @@ import math
 from subprocess import call
 
 #Constantes
+UMBRAL_INICIAL = 1.2
 UMBRAL = 1.3
 RANGO_SIN_PERTURBACION = 1000
 
@@ -14,7 +15,7 @@ def procesarSismo():
         f = open('acelerometro.txt', 'r')
         acelerometro = float(f.read())
         f.close()
-        if acelerometro < UMBRAL:
+        if acelerometro < UMBRAL_INICIAL:
             reposo = False
             contadorDeReposo = 0
             captura = []

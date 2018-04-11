@@ -66,6 +66,8 @@ def leerFirebase():
     escribirArchivo('iluminacion.txt',iluminacion)
     escribirArchivo('ventilacion.txt',ventilacion)
 
+
+
 def enviarTemperatura(valorAnterior):
     try:
         f=open('temperatura.txt','r')
